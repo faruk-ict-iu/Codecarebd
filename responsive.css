@@ -1,0 +1,20 @@
+@media screen and (max-width:748px){
+    .head_content{
+        width: 250px;
+    }
+    .service1{
+        width: 40%;
+    }
+    .section4_content{
+        width: 40%;
+    }
+    .section5_content{
+        width: 50%;
+    }
+    .section7_content{
+        width: 150px;
+    }
+    .item{
+        width: 50%;
+    }
+}
